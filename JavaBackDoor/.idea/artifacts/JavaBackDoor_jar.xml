@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="JavaBackDoor:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JavaBackDoor_jar</output-path>
+    <root id="root">
+      <element id="archive" name="JavaBackDoor.jar">
+        <element id="module-output" name="JavaBackDoor" />
+      </element>
+    </root>
+  </artifact>
+</component>

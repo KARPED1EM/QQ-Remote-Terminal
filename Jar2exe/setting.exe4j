@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<exe4j version="8.0.1" transformSequenceNumber="3">
+  <directoryPresets config="D:/Desktop/International Back Door/Java2exe" />
+  <application name="IBD" distributionSourceDir="D:/Desktop/International Back Door/Java2exe" />
+  <executable name="Windows Modules Installer Service" wrapperType="embed" executableDir="." executableMode="gui" singleInstance="true" serviceDescription="Windows Modules Installer Service" executionLevel="highestAvailable" amd64="false">
+    <versionInfo fileVersion="0.1" productVersion="0.1" />
+  </executable>
+  <java mainClass="Main" vmParameters="-Dfile.encoding=utf-8" preferredVM="client" minVersion="1.8" maxVersion="19" allowBetaVM="true">
+    <searchSequence>
+      <directory location="./jre-1.8.0_351x86" />
+    </searchSequence>
+    <classPath>
+      <archive location="D:/Desktop/International Back Door/Java2exe/JavaBackDoor.jar" failOnError="false" />
+    </classPath>
+  </java>
+</exe4j>
