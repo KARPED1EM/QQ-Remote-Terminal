@@ -1,6 +1,4 @@
-## 项目已废弃
-
-# QQ-Remote-Terminal
+# 项目已废弃
 
 使用QQ指令即可在已安装客户端的Windwos计算机上使用CMD指令。
 
