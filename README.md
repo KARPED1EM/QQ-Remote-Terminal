@@ -1,4 +1,4 @@
-# QQ-Remote-Terminal (Deprecated )
+# QQ-Remote-Terminal (Deprecated)
 
 > 🚧 This is an **ancient artifact** from my childhood coding adventures.  
 > It survives here purely for sentimental reasons. Proceed with caution (and humor)!
