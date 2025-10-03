@@ -1,15 +1,29 @@
-# 项目已废弃
+# QQ-Remote-Terminal
 
-使用QQ指令即可在已安装客户端的Windwos计算机上使用CMD指令。
+> **Note**: This project has been deprecated and is no longer actively maintained.
 
-使用语言：Java、易语言
+## Overview
 
-项目成员：KPD、NCS、Ugo
+QQ-Remote-Terminal is a remote command execution tool that allows users to execute CMD commands on Windows computers through QQ messaging platform. The system consists of a client agent that runs on the target machine and a control interface that sends commands via QQ.
 
-开发进度：
-- [X] 被控端
-- [X] 临时控制端
-- [ ] 指令中继器（XLZ框架）
-- [X] 被控端的静默安装程序
-- [ ] 被控端增加功能
-- [ ] 实装测试
+## Technologies
+
+- **Java**: Core backdoor client implementation
+- **E Language (易语言)**: Installer and relay components
+
+## Contributors
+
+KPD, NCS, Ugo
+
+## Development Status
+
+- [x] Client agent
+- [x] Temporary control interface
+- [ ] Command relay server (XLZ framework)
+- [x] Silent installer for client agent
+- [ ] Additional client features
+- [ ] Production testing
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE.txt file for details.
